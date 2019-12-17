@@ -25,7 +25,9 @@ module.exports = {
     'keyword-spacing': 0,
     'template-curly-spacing': 0,
     'comma-dangle': 0,
-    'comma-spacing': 0
+    'comma-spacing': 0,
+    'standard/object-curly-even-spacing': 0,
+    'no-template-curly-in-string': 0
   },
   parserOptions: {
     parser: 'babel-eslint'

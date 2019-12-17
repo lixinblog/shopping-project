@@ -3,6 +3,8 @@ html,body,#app {
     height: 100%;
     margin: 0;
     padding: 0;
+    min-width: 1366px;
+    /* 如果屏幕的宽度不够导致本来是一行的标签，变成了两行 */
 }
 
 .el-breadcrumb {
