@@ -5,8 +5,10 @@
       <div>
         <!-- 图片 -->
         <img
-          src="../assets/heima.png"
+          src="../assets/dog.jpg"
           alt=""
+          width="50px"
+          height="50px"
         >
         <!-- 文本 -->
         <span>电商后台管理系统</span>
